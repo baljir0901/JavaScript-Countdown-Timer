@@ -1,0 +1,33 @@
+body {
+  background-color: #121212;
+  color: white;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+#timer {
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#mode {
+  font-size: 18px;
+  color: #ccc;
+}
+
+#progress {
+  font-size: 20px;
+  margin-top: 10px;
+}
